@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: Helvetica;
+}
+
+h3{
+    color:rgb(135, 47, 47);
+}
+img{
+    width: 25%;
+    height: 150px;
+}
+
+.center{
+    list-style-position: inside;
+}
